@@ -1,0 +1,12 @@
+{
+  "name": "discord-ws-bot",
+  "main": "src/index",
+  "type": "module",
+  "author": "fxiq#4715",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "dotenv": "^16.0.3",
+    "ws": "^8.12.0"
+  }
+}
